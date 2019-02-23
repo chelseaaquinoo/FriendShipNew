@@ -1,0 +1,110 @@
+﻿[
+  {
+    "Username": "Chelseaa",
+    "Gender": "female",
+    "BirthDate": "1967-07-28",
+    "PasswordHash": "password2426",
+    "Name": "Chelsea",
+    "Email": "chelsea@gmail.com",
+    "Created": "2018-12-12",
+    "LastActive": "2019-01-12",
+    "Introduction": "{{lorem(1, \"paragraphs\")}}",
+    "LookingFor": "{{lorem(1, \"paragraphs\")}}",
+    "Interests": "{{lorem(1, \"sentences\")}}",
+    "City": "Mullica",
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/1.jpg",
+        "isProfilePic": true,
+        "description": null,
+        "description": '{{lorem()}}'
+
+      }
+    ]
+  },
+  {
+    "Username": "Courtney",
+    "Gender": "female",
+    "BirthDate": "1995-09-24",
+    "PasswordHash": "password2426",
+    "Name": "Courtney",
+    "Email": "Courtney@gmail.com",
+    "Created": "2018-03-28",
+    "LastActive": "2019-01-16",
+    "Introduction": "{{lorem(1, \"paragraphs\")}}",
+    "LookingFor": "{{lorem(1, \"paragraphs\")}}",
+    "Interests": "{{lorem(1, \"sentences\")}}",
+    "City": "Hammonton",
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/23.jpg",
+        "isProfilePic": true,
+        "description": "{{lorem()}}"
+      }
+    ]
+  },
+  {
+    "Username": "Joni",
+    "Gender": "female",
+    "BirthDate": "1990-04-14",
+    "PasswordHash": "password2426",
+    "Name": "Joni",
+    "Email": "Joni@gmail.com",
+    "Created": "2019-01-22",
+    "LastActive": "2019-01-22",
+    "Introduction": "{{lorem(1, \"paragraphs\")}}",
+    "LookingFor": "{{lorem(1, \"paragraphs\")}}",
+    "Interests": "{{lorem(1, \"sentences\")}}",
+    "City": "Philadelphia",
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/60.jpg",
+        "isProfilePic": true,
+        "description": "{{lorem()}}"
+      }
+    ]
+  },
+  {
+    "Username": "Jenna",
+    "Gender": "female",
+    "BirthDate": "1994-08-24",
+    "PasswordHash": "password2426",
+    "Name": "Jenna",
+    "Email": "Jenna@gmail.com",
+    "Created": "2019-01-18",
+    "LastActive": "2019-01-18",
+    "Introduction": "{{lorem(1, \"paragraphs\")}}",
+    "LookingFor": "{{lorem(1, \"paragraphs\")}}",
+    "Interests": "{{lorem(1, \"sentences\")}}",
+    "City": "Atlantic City",
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/22.jpg",
+        "isProfilePic": true,
+        "description": "{{lorem()}}"
+      }
+    ]
+  },
+  {
+    "Username": "Reece",
+    "Gender": "female",
+    "BirthDate": "1995-03-28",
+    "PasswordHash": "password2426",
+    "Name": "Reece",
+    "Email": "reece@gmail.com",
+    "Created": "2016-11-28",
+    "LastActive": "2019-01-04",
+    "Introduction": "{{lorem(1, \"paragraphs\")}}",
+    "LookingFor": "{{lorem(1, \"paragraphs\")}}",
+    "Interests": "{{lorem(1, \"sentences\")}}",
+    "City": "Galloway",
+    "Photos": [
+      {
+        "url": "https://randomuser.me/api/portraits/women/18.jpg",
+        "isProfilePic": true,
+        "description": "{{lorem()}}"
+      }
+    ]
+  },
+
+ 
